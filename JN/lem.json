@@ -199,6 +199,8 @@
 {"key":"csp_xBPQ_酷蚂蚁影视","name":"🤍Lem专属 酷蚂蚁影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{ \"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3\", \"分类url\":\"http://www.kmy5.com/tv/{cateId}-{catePg}.html\" }"},
 {"key":"csp_xBPQ_疯狗影视","name":"🤍Lem专属 疯狗影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/疯狗.json"},
 {"key":"csp_xBPQ_电视直播","name":"🤍Lem专属 电视直播(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{ \"分类\":\"电视直播$ys.html#\", \"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\", \"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\", \"图片\":\"http://\", \"播放图片\":\"http://\", \"不分线路\":\"1\" }"},
+{"key":"csp_xBPQ_348影视","name":"348影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{   \"分类url\":\"https://348z.com/vodshow/id/{cateId}/page/{catePg}.html\",     \"播放数组\":\"<ul class=\\\"content_playlist cf\\\">&&</ul>\",  \"线路数组\":\"<a class=\\\"channelname swiper-slide*</i&&/a>[不包含:八戒云#蓝光D1]\", \"线路标题\":\">&&(\" }"},
+
 
 //{"key":"csp_xBPQ_追剧达人","name":"追剧人影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://zjdr.tv/vodshow/id/{cateId}/page/{catePg}.html"},
 //{"key": "csp_xBPQ_短视频","name": "️短视频(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "分类url:http://www.sharenice.net/{cateId}?page={catePg},分类:抖音,直接播放:1,嗅探词:play/?#?item#qianpailive#.flv#mp4"},
