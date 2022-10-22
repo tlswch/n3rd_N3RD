@@ -6,7 +6,7 @@
 //"spider":"https://agit.ai/lem85930/LEM/raw/branch/master/JARS/lem1019.jar;md5;194E9D8D4E6AE2E8AE11CFD196FBF661",
 //"spider":"https://agit.ai/lem85930/LEM/raw/branch/master/JARS/lem1018.jar;md5;FE9D2C2163BD43D439007129D5F51882",
 
-
+"wallpaper":"https://agit.ai/n3rd/N3RD/raw/branch/master/W/crimetv.png",
 
 "sites":[
 
@@ -1031,10 +1031,10 @@
 {"name":"高清","type":1,"url":"https://json.freejx.in/?url="},
 {"name":"m3u8tv高清","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
 
-{"name":"📂公益1","url":"http://3.37.195.161:54371/parse/api/鸿途.js?url=","type":1,"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"📂公益1","url":"http://3.37.195.161:54371/parse/api/飞跃.js?url=","type":1,"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"📂公益3","url":"http://3.37.195.161:54371/parse/api/鸿图.js?url=","type":1,"header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"📂公益4","url":"http://3.37.195.161:54371/parse/api/酷云.js?url=","type":1},
 {"name":"📂公益2","url":"http://3.37.195.161:54371/parse/api/江湖.js?url=","type":1},
-{"name":"📂公益3","url":"http://3.37.195.161:54371/parse/api/飞跃.js?url=","type":1},
 {"name":"📂公益5","url":"http://3.37.195.161:54371/parse/api/无名.js?url=","type":1},
 {"name":"📂公益6","url":"http://3.37.195.161:54371/parse/api/江湖加密.js?url=","type":1},
 {"name":"老板","type":1,"url":"http://ck.laobandq.com/3515240842.php?pltfrom=1100&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","xigua","imgo"]}},
