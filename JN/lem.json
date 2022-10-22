@@ -62,7 +62,6 @@
 {"key":"If101","name":"1️⃣Lem专属 If101(需翻墙)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tangrenjie","name":"🍬Lem专属 唐人街(需翻墙)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_xpath_nbys","name":"🏝Lem专属 泥巴(需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key": "Jumi","name": "🎉Lem专属 剧迷(需翻墙)","type": 3,"api": "csp_Jumi","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Gitcafe","name":"📜Lem专属 小纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
 {"key": "Olevod","name": "🔸Lem专属 Olevod(SP)","type": 3,"api": "csp_Olevod","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Anfuns","name": "🤖Lem专属 Anfuns(SP)","type": 3,"api": "csp_Anfuns","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -82,7 +81,7 @@
 //{"key":"csp_Dy1990","name":"☕Lem专属 1990电影(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 //{"key":"csp_77","name":"🎬Lem专属 77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/lem85930/LEM/raw/branch/master/JARS/k7.jar"},
 //{"key": "Ddys","name": "🤿Lem专属 低端影视(SP)","type": 3,"api": "csp_Ddys","searchable": 1,"quickSearch": 1,"filterable": 1},
-
+//{"key": "Jumi","name": "🎉Lem专属 剧迷(需翻墙)","type": 3,"api": "csp_Jumi","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
 //搜索
