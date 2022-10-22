@@ -279,6 +279,17 @@
 {"key":"csp_xb_auete","name":"🤍Lem专属 Auete(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/auetexb.json"},
 {"key":"csp_xb_野荷塘","name":"🤍Lem专属 野荷塘(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yehetang.cc/show/{cateId}--------{catePg}---/"},
 {"key":"csp_xb_快看","name":"🤍Lem专属 快看影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.kuaikanys.net/s/{cateId}/page/{catePg}.html"},
+{"key":"csp_xb_shdy","name":"💠骚火电影(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shdy2.com/list/{cateId}-{catePg}.html"},
+{"key":"csp_xb_ybkk","name":"💠云播看看(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.135kan.com/type/{cateId}-{catePg}/"},
+{"key":"csp_xb_heihei","name":"💠嘿嘿视频(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://heiheiys.com/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_yueq","name":"💠云雀(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
+{"key":"csp_xb_heitao","name":"💠核桃影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://kkkk.plus/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},
+{"key":"csp_xb_98ys","name":"💠98影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.98kpm.com/{cateId}/index{catePg}.html[http://www.98kpm.com/{cateId}/index.html]"},
+{"key":"csp_xb_vofixys","name":"💠vofix影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.voflix.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},
+{"key":"csp_xb_玄天","name":"💠玄天影院(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://m.7caa.com/list/{cateId}-{catePg}.html"},
+{"key":"csp_xb_jianpian","name":"💠荐片(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},
+{"key":"csp_xb_mztys","name":"💠莫扎兔影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.mozhatu.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
+
 
 //{"key":"csp_xb_jiumeng","name":"❤️旧梦影视┃R","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://150.158.130.238:4433/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html"},
 //{"key":"csp_XBiu_4K极客","name":"❤️4K极客┃R","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.i8k.cc/vodshow/{cateId}--------{catePg}---.html"},
