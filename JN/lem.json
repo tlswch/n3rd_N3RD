@@ -328,7 +328,8 @@
 {"key":"csp_xb_23ys","name":"🤍Lem专属 23影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.23wm.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"},
 {"key":"csp_xb_aowu","name":"🤍Lem专属 嗷呜影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.cx99999.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},
 {"key":"csp_xb_电影客","name":"🤍Lem专属 电影客(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6dy.org/vod/type/{cateId}-{catePg}.html"},
-
+{"key":"csp_xb_口袋影院","name":"📼口袋影院(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.koudaitv.com/type/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_动漫巴士","name":"📼动漫巴士(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://dm84.tv/list-{cateId}-{catePg}.html"},
 
 //{"key":"csp_xb_98ys","name":"💠98影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.98kpm.com/{cateId}/index{catePg}.html[http://www.98kpm.com/{cateId}/index.html]"},
 //{"key":"csp_xb_yueq","name":"💠云雀(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
