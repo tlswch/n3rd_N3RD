@@ -1039,6 +1039,8 @@
 
 "rules": [
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
+{"host":"*", "rule":["iesdouyin.com/aweme", "video_id="]},
+{"host":"*", "rule":["douyin.com/aweme", "video_id="]},
 {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
 {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".m3u8"]},
 {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mp4"]},
