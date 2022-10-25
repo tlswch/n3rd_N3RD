@@ -366,6 +366,11 @@
 {"key":"csp_XYQHiker_白嫖者联盟","name":"🤍Lem专属 白嫖者联盟(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/白嫖者联盟.json"},
 {"key":"csp_XYQHiker_酷客","name":"🤍Lem专属 酷客(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/酷客.json"},
 {"key":"csp_XYQHiker_188影视","name":"🤍Lem专属 188影视(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/188影视.json"},
+{"key":"csp_XYQHiker_看看电影","name":"🤍Lem专属 看看电影(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/kkdyPH.json"},
+{"key":"csp_XYQHiker_300影视","name":"🤍Lem专属 300影视(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/300PH.json"},
+{"key":"csp_XYQHiker_厂长资源","name":"🤍Lem专属 厂长资源(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/czsppPH.json"},
+{"key":"csp_XYQHiker_iMax影院","name":"🤍Lem专属 iMax影院(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/imaxwPH.json"},
+{"key":"csp_XYQHiker_星辰影院","name":"🤍Lem专属 星辰影院(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/40ybH.json"},
 {"key":"csp_XYQHiker_电影港磁力","name":"🤍Lem专属 电影港磁力(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/电影港磁力.json"},
 
 
