@@ -28,7 +28,7 @@
 {"key": "耐看电影","name": "🍼Lem专属 耐看电影(SP)","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Dy1010","name": "🎉Lem专属 双十电影(SP)","type": 3,"api": "csp_Dy1010","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"蓝光影院","name":"💦Lem专属 蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "NianYing","name": "🎉Lem专属 NianYing(SP)","type": 3,"api": "csp_Nianying","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "NianYing","name": "🎉Lem专属 NianYing(SP)","type": 3,"api": "csp_NianYing","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Ddrk","name":"🤿Lem专属 低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Juhuang","name":"🍟Lem专属 剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Dy555","name": "5️⃣️Lem专属 555影视(SP)","api":"csp_Dy555","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
