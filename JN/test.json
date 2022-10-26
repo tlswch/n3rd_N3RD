@@ -9,6 +9,7 @@
 
 //Lem缝合包
 
+{"key":"蓝光影院","name":"💦Lem专属 蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Juhi","name": "🎉Lem专属 Juhi","type": 3,"api": "csp_Jumi","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Jumi","name": "🎉Lem专属 剧迷(需翻墙)","type": 3,"api": "csp_Jumi","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Duboku","name":"🎉Lem专属 Duboku(SP)","type":3,"api":"csp_Duboku","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XP/duboku.json"},
