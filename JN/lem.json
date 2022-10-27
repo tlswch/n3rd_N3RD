@@ -216,6 +216,7 @@
 {"key":"csp_xBPQ_YYDS","name":"🤍Lem专属 YYDS(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/yyds.json"},
 {"key":"csp_xBPQ_不休影视","name":"🤍Lem专属 不休影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{  \"免嗅\":\"0\", \"二次截取\":\"stui-vodlist clearfix\\\"&&</ul>\", \"播放数组\":\"stui-content__playlist clearfix\\\"&&</ul>\", \"播放链接\":\"href=\\\"&&\\\"\",  \"分类\":\"国产电视剧$gcj#电视剧$dianshiju#电影$dianying#动漫$dongmna#综艺$zongyi\",   \"分类url\":\"https://www.bxiutv.com/bxdq/{cateId}/page/{catePg}.html\" }"},
 {"key":"csp_xBPQ_酷奇mv","name":"🤍Lem专属 酷奇MV(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{  \"直接播放\":\"1\", \"分类\":\"华语高清$1#影视MV$5#现场MV$4\", \"分类url\":\"https://www.kuqimv.com/play/{cateId}_{catePg}.html\"}"},
+{"key":"csp_xBPQ_4K影院","name":"🤍Lem专属 4K影院(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/4K影院.json"},
 {"key":"csp_xBPQ_电视直播","name":"🤍Lem专属 电视直播(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{ \"分类\":\"电视直播$ys.html#\", \"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\", \"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\", \"图片\":\"http://\", \"播放图片\":\"http://\", \"不分线路\":\"1\" }"},
 
 //{"key":"csp_xBPQ_追剧达人","name":"追剧人影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://zjdr.tv/vodshow/id/{cateId}/page/{catePg}.html"},
@@ -378,6 +379,7 @@
 {"key":"csp_XYQHiker_厂长资源","name":"🤍Lem专属 厂长资源(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/czsppPH.json"},
 {"key":"csp_XYQHiker_iMax影院","name":"🤍Lem专属 iMax影院(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/imaxwPH.json"},
 {"key":"csp_XYQHiker_星辰影院","name":"🤍Lem专属 星辰影院(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/40ybH.json"},
+{"key":"csp_XYQHiker_HDmoli","name":"🤍Lem专属 HDmoli(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/HDmoli.json"},
 {"key":"csp_XYQHiker_电影港磁力","name":"🤍Lem专属 电影港磁力(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/电影港磁力.json"},
 
 
