@@ -26,7 +26,7 @@
 {"key": "Bdys01","name": "📯Lem专属 哔嘀影视(SP)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Bdys02","name": "📯Lem专属 哔嘀影视(SSSVIP)","type": 3,"api": "csp_Bdys02","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Yanet","name":"🦆Lem专属 鸭奈飞(SP)","type":3,"api":"csp_Yanet","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Pang","name":"🐯Lem专属 胖虎(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/cs.txt"},
+{"key":"Pang","name":"🐯Lem专属 胖虎(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/cs.txt"},
 {"key": "Fantuan","name": "🍙Lem专属 饭团(SP)","type": 3,"api": "csp_Fantuan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "耐看电影","name": "🍼Lem专属 耐看电影(SP)","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Dy1010","name": "🎉Lem专属 双十电影(SP)","type": 3,"api": "csp_Dy1010","searchable": 1,"quickSearch": 1,"filterable": 1},
