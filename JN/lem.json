@@ -1,7 +1,8 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1029.jar;md5;C70C7160A5C6BE9F7E098AB41048D3B0",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1030.jar;md5;40E7A1EC6D73FFF36C2BBBEBBCA7925F",
 
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1029.jar;md5;C70C7160A5C6BE9F7E098AB41048D3B0",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1026.jar;md5;67D6805A6985845D952DC45B9560709A",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1022.jar;md5;E86556A9BFBB4D77284DD84C6DC02BAC",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1021.jar;md5;ACB4E3D89A10E3B438400AE365CCF008",
@@ -25,7 +26,10 @@
 {"key":"APPTT","name":"🗺Lem专属 图图(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Bdys01","name": "📯Lem专属 哔嘀影视(SP)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Bdys02","name": "📯Lem专属 哔嘀影视(SSSVIP)","type": 3,"api": "csp_Bdys02","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Yanet","name":"🦆Lem专属 鸭奈飞(SP)","type":3,"api":"csp_Yanet","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Yanet","name":"🦆Lem专属 鸭奈飞(SP)","type":3,"api":"csp_Yanet","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349"},
+{"key":"Pang","name":"🐯Lem专属 胖虎(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"c41fdb671b20925c76fa9b6ff8bad027"},
+{"key":"spider_IKan","name":"💖Lem专属 爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
+{"key": "Smdyy","name": "🐴Lem专属 神马影院(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"16705ee9f4764be8499806f52d4bf1e7"},
 {"key": "Fantuan","name": "🍙Lem专属 饭团(SP)","type": 3,"api": "csp_Fantuan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "耐看电影","name": "🍼Lem专属 耐看电影(SP)","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Dy1010","name": "🎉Lem专属 双十电影(SP)","type": 3,"api": "csp_Dy1010","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -50,8 +54,6 @@
 {"key":"spider_Bttoo","name":"✌Lem专属 2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jianying","name":"✂Lem专属 简影(SP)","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDc4MiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0yNlQxMTowOTo0Ni43NDkrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTEwLTA1VDEwOjAwOjU5LjA3KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiNTg3ODEzNDlAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiNTkwOWIyYTMtNTUzOS00NWE3LTg2MjUtODIwZmIwM2M5YzUwIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6IjIwMjItMTAtMDVUMTA6MDA6NTkuMDcrMDg6MDAiLCJyZWdfa2V5IjoiNzMwODE2MjAiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY2MzIxNzQ3LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.P2etFz7ILSDaL4AEUs5-z9E7Vlt0LCJE-UZ1hUa5fYg"},
 {"key": "Lib","name": "🎉Lem专属 Libvio(SP)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Smdyy","name": "🐴Lem专属 神马影院(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"spider_IKan","name":"💖Lem专属 爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key": "Zjdr","name": "👦Lem专属 追剧达人(SP)","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Lezhu_spider","name": "🐷Lem专属 乐猪影视(SP)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
 {"key":"3EDY","name":"3️⃣Lem专属 3EDY(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
@@ -72,7 +74,7 @@
 {"key": "MGTV","name": "🥭Lem专属 芒果TV(SP)","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "QQ","name": "🐧Lem专属 腾讯视频(SP)","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "bdys","name": "📣Lem专属 哔嘀(磁力测试)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XP/Bdys.json"},
-{"key":"Tbook","name":"📖Lem专属 听书网(SP)","type":3,"api":"csp_Tbook","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Tbook","name":"📖Lem专属 听书网(SP)","type":3,"api":"csp_Tbook","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784"},
 
 
 //{"key":"Nfyun","name":"☁Lem专属 Nf云(SP)","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
