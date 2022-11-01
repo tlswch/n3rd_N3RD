@@ -1,7 +1,8 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1030.jar;md5;40E7A1EC6D73FFF36C2BBBEBBCA7925F",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1101.jar;md5;B80AAD7BBB7B416CDE9E0FF787A4AD48",
 
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1030.jar;md5;40E7A1EC6D73FFF36C2BBBEBBCA7925F",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1029.jar;md5;C70C7160A5C6BE9F7E098AB41048D3B0",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1026.jar;md5;67D6805A6985845D952DC45B9560709A",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1022.jar;md5;E86556A9BFBB4D77284DD84C6DC02BAC",
@@ -28,6 +29,7 @@
 {"key": "Bdys02","name": "📯Lem专属 哔嘀影视(SSSVIP)","type": 3,"api": "csp_Bdys02","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Yanet","name":"🦆Lem专属 鸭奈飞(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349"},
 {"key":"Pang","name":"🐯Lem专属 胖虎(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"c41fdb671b20925c76fa9b6ff8bad027"},
+{"key":"Hei","name":"🍇Lem专属 石榴(SP)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
 {"key":"spider_IKan","name":"💖Lem专属 爱看(SP)","type":3,"api":"csp_Dora","quickSearch":1,"searchable":1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
 {"key": "Smdyy","name": "🐴Lem专属 神马影院(SP)","type": 3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"16705ee9f4764be8499806f52d4bf1e7"},
 {"key": "Fantuan","name": "🍙Lem专属 饭团(SP)","type": 3,"api": "csp_Fantuan","searchable": 1,"quickSearch": 1,"filterable": 1},
