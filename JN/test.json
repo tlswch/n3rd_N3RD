@@ -1,7 +1,7 @@
 {
 
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/ft.jar",
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1021.jar",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/cs.txt",
 
 "sites":[
 
@@ -9,6 +9,7 @@
 
 //Lem缝合包
 
+{"key":"AList","name": "AList","type": 3,"api":"csp_AList","searchable":1,"ext": "https://agit.ai/n3rd/N3RD/raw/branch/master/T/a.json"},
 {"key":"Zjdr","name":"追剧达人","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40"},
 {"key":"Yanet","name":"鸭奶飞","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349"},
 {"key":"Pang","name":"胖虎","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"c41fdb671b20925c76fa9b6ff8bad027"},
