@@ -1,7 +1,8 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1105.jar;md5;655F37A2D67D073512B65B19225497B9",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1106.jar;md5;5B693E121BD30286381957D72506B906",
 
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1105.jar;md5;655F37A2D67D073512B65B19225497B9",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1103.jar;md5;10DE1E4563C4511EBF75C5079F445344",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1101.jar;md5;B80AAD7BBB7B416CDE9E0FF787A4AD48",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1030.jar;md5;40E7A1EC6D73FFF36C2BBBEBBCA7925F",
@@ -35,6 +36,8 @@
 {"key":"Hei","name":"🍇Lem专属 石榴(SP)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
 {"key":"spider_IKan","name":"💖Lem专属 爱看(SP)","type":3,"api":"csp_Dora","quickSearch":1,"searchable":1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
 {"key": "Smdyy","name": "🐴Lem专属 神马影院(SP)","type": 3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"16705ee9f4764be8499806f52d4bf1e7"},
+{"key":"Dy555","name":"5️⃣️Lem专属 555电影(SP)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"f41992bd740145ed58cb212dc0876582"},
+//{"key":"csp_Dy555","name": "5️⃣️Lem专属 555电影(SP)","api":"csp_Dy555","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
 {"key": "Fantuan","name": "🍙Lem专属 饭团(SP)","type": 3,"api": "csp_Fantuan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "耐看电影","name": "🍼Lem专属 耐看电影(SP)","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Dy1010","name": "🎉Lem专属 双十电影(SP)","type": 3,"api": "csp_Dy1010","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -43,7 +46,6 @@
 {"key":"csp_Ddrk","name":"🤿Lem专属 低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Juhuang","name":"🍟Lem专属 剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key": "Zjdr","name": "👦Lem专属 追剧达人(SP)","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Dy555","name": "5️⃣️Lem专属 555影视(SP)","api":"csp_Dy555","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
 {"key":"csp_Ysgc","name":"🏭Lem专属 影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"🚌Lem专属 动漫巴士(SP)","type":3,"api":"csp_Dm84","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},  
 {"key":"csp_Nmys","name":"👨‍🌾Lem专属 农民影视(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Nmys.json"},
