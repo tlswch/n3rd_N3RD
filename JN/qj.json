@@ -8,7 +8,40 @@
 			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvUWlhb0ppNi9GcmVlRC9tYXN0ZXIvbGl2ZS50eHQ="]
 		}]
 	}],
-	"sites": [{
+	"sites": [
+	 {
+		"key": "yanetflix_spider",
+		"name": "鸭奈飞",
+		"api": "csp_YaNetFlix",
+		"type": 3,
+		"filterable": 1,
+		"playerType": 2,
+		"quickSearch": 1,
+		"searchable": 1,
+		"ext": ""
+	}, {
+		"key": "niketv_spider",
+		"name": "耐客TV",
+		"api": "csp_NikeTV",
+		"type": 3,
+		"filterable": 1,
+		"playerType": 2,
+		"quickSearch": 1,
+		"searchable": 1,
+		"ext": ""
+	}, {
+		"key": "Mayiys",
+		"name": "Mayiys",
+		"api": "Mayiys",
+		"type": 3,
+		"filterable": 1,
+		"playerType": 2,
+		"quickSearch": 1,
+		"searchable": 1,
+		"ext": ""
+	}, 
+	
+	{
 		"key": "Tutu_spider",
 		"name": "图图影视",
 		"api": "csp_TutuYs",
