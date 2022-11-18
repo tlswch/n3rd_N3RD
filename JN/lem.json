@@ -145,7 +145,7 @@
 {"key":"csp_xBPQ_极品","name":"🤍Lem专属 极品影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/jipinys.json"},
 {"key":"csp_xBPQ_um","name":"🤍Lem专属 UM影院(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/umkan.json"},
 {"key":"csp_xBPQ_爱酷","name":"🤍Lem专属 爱酷影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/爱酷影视.json"},
-{"key":"csp_xBPQ_番茄","name":"🤍Lem专属 番茄影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/fanqie.json"},
+{"key":"csp_xBPQ_番茄","name":"🤍Lem专属 番茄影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/番茄影视.json"},
 {"key":"csp_xBPQ_瓜皮TV","name":"🤍Lem专属 瓜皮影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/guapi.json"},
 {"key":"csp_xBPQ_蓝光","name":"🤍Lem专属 蓝光影院(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/lgyy.json"},
 {"key":"csp_xBPQ_酷客","name":"🤍Lem专属 酷客影院(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/kuke.json"},
@@ -248,7 +248,7 @@
 {"key":"csp_xBPQ_低端影视","name":"🤍Lem专属 低端影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/低端影视.json"},
 {"key":"csp_xBPQ_石榴电影","name":"🤍Lem专属 石榴电影(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/石榴电影.json"},
 {"key":"csp_xBPQ_酷奇mv","name":"🤍Lem专属 酷奇MV(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{  \"直接播放\":\"1\", \"分类\":\"华语高清$1#影视MV$5#现场MV$4\", \"分类url\":\"https://www.kuqimv.com/play/{cateId}_{catePg}.html\"}"},
-{"key":"csp_xBPQ_电视直播","name":"🤍Lem专属 电视直播(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{ \"分类\":\"电视直播$ys.html#\", \"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\", \"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\", \"图片\":\"http://\", \"播放图片\":\"http://\", \"不分线路\":\"1\" }"},
+{"key":"csp_xBPQ_电视直播","name":"🤍Lem专属 电视直播(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/电视直播.json"},
 {"key":"csp_xBPQ_短视频","name":"🤍Lem专属 短视频(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/短视频.json"},
 
 //{"key":"csp_xBPQ_追剧达人","name":"追剧人影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://zjdr.tv/vodshow/id/{cateId}/page/{catePg}.html"},
