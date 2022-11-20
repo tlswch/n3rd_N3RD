@@ -38,6 +38,7 @@
 //{"key": "csp_BBB","name":"🅱Lem专属 哔哩套餐","type": 3,"api": "csp_BBB","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Bili1.json"},
 //{"key":"APPTT","name":"🗺Lem专属 图图影视(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Tutu_spider","name":"🗺Lem专属 图图影视(SP)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://45.207.11.9:4433"},
+{"key":"csp_xBPQ_电视直播","name":"🤍Lem专属 电视直播(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/电视直播.json"},
 {"key":"YQK_spider","name":"📺Lem专属 一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 {"key":"csp_77","name":"🎬Lem专属 酷云77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"👀Lem专属 快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -257,7 +258,6 @@
 {"key":"csp_xBPQ_低端影视","name":"🤍Lem专属 低端影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/低端影视.json"},
 {"key":"csp_xBPQ_石榴电影","name":"🤍Lem专属 石榴电影(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/石榴电影.json"},
 {"key":"csp_xBPQ_酷奇mv","name":"🤍Lem专属 酷奇MV(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{  \"直接播放\":\"1\", \"分类\":\"华语高清$1#影视MV$5#现场MV$4\", \"分类url\":\"https://www.kuqimv.com/play/{cateId}_{catePg}.html\"}"},
-{"key":"csp_xBPQ_电视直播","name":"🤍Lem专属 电视直播(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/电视直播.json"},
 {"key":"csp_xBPQ_短视频","name":"🤍Lem专属 短视频(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XBPQ/短视频.json"},
 
 //{"key":"csp_xBPQ_追剧达人","name":"追剧人影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://zjdr.tv/vodshow/id/{cateId}/page/{catePg}.html"},
