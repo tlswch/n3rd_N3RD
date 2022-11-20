@@ -1,6 +1,6 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1121.jar;md5;D760E836F8F34507262F192865740DFE",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1121.jar;md5;D750F042D686C8570002E68B1041D95E",
 
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1118.jar;md5;AFE9FCBB9556531329F4AB64785C30B1",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1117.jar;md5;C3D9B9C3936648A7D846EA42B1172649",
@@ -38,9 +38,10 @@
 //{"key": "csp_BBB","name":"🅱Lem专属 哔哩套餐","type": 3,"api": "csp_BBB","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Bili1.json"},
 //{"key":"APPTT","name":"🗺Lem专属 图图影视(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Tutu_spider","name":"🗺Lem专属 图图影视(SP)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://45.207.11.9:4433"},
+{"key":"YQK_spider","name":"📺Lem专属 一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 {"key":"csp_77","name":"🎬Lem专属 酷云77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"👀Lem专属 快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_zxzj","name":"📺Lem专属 在线(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_zxzj","name":"📹Lem专属 在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Czsapp","name":"👴Lem专属 厂长(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Cokemv","name":"🥤Lem专属 Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Ddrk","name":"🤿Lem专属 低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
