@@ -102,7 +102,7 @@
 {"key": "bdys","name": "📣Lem专属 哔嘀(磁力测试)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XP/Bdys.json"},
 {"key":"Tbook","name":"📖Lem专属 听书网(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784"},
 {"key":"AList","name": "📜Lem专属 AList","type": 3,"api":"csp_AList","searchable":1,"ext": "https://agit.ai/n3rd/N3RD/raw/branch/master/T/a.json"},
-{"key":"VIPlive","name":"🎥Lem专属 星辰直播(T4)","type":4,"api":"http://120.53.102.254/live?url=http://47.242.90.42:8888/down/ZOVVu8PM30eP.txt","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"VIPlive","name":"🎥Lem专属 电视直播(T4)","type":4,"api":"http://120.53.102.254/live?url=http://47.242.90.42:8888/down/ZOVVu8PM30eP.txt","searchable":1,"quickSearch":1,"filterable":1},
 
 
 //{"key":"Nfyun","name":"☁Lem专属 Nf云(SP)","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
