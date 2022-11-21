@@ -379,8 +379,10 @@
 //{"key":"csp_XBiu_4K极客","name":"❤️4K极客┃R","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.i8k.cc/vodshow/{cateId}--------{catePg}---.html"},
 
 
+
 //道长DRPY-JS规则
 
+{"key":"drjs_布雷蓝光","name":"👺Lem专属 布雷蓝光(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/DRJS/布雷蓝光.json"},
 {"key":"drjs_盛世电影网","name":"👺Lem专属 盛世电影网(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/DRJS/盛世电影网.json"},
 {"key":"drjs_浮生半日","name":"👺Lem专属 浮生半日(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/DRJS/浮生半日.json"},
 {"key":"drjs_追剧迷","name":"👺Lem专属 追剧迷(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/DRJS/追剧迷.json"},
