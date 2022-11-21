@@ -1,7 +1,7 @@
 {
 
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/ft.jar",
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/xo.jar",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/logo.jar",
 
 "sites":[
 
@@ -9,6 +9,11 @@
 
 //Lem缝合包
 
+
+{"key":"RelaxSP","name":"🛴Lem专属 轻松影视(SP)","api":"csp_RelaxSP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"key":"MiniYs_spider","name":"🐾Lem专属 迷你影视(SP)","api":"csp_MiniYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"key":"棉花影视","name":"☁Lem专属 棉花影视(SP)","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"NikeTV","name":"☁Lem专属 NikeTV(SP)","type":3,"api":"csp_NikeTV","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Tian","name":"🌝Lem专属 天天(SP)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"bdc1c75081e5e477189a463baa47e392"},
 {"key":"AList","name": "AList","type": 3,"api":"csp_Alist3","searchable":1,"ext": "https://agit.ai/n3rd/N3RD/raw/branch/master/T/a.json"},
 {"key":"Zjdr","name":"追剧达人","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40"},
