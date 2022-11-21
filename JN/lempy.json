@@ -15,8 +15,8 @@
 
 //Lem缝合包
 
-{"key":"drjs_盛世电影网","name":"📁盛世电影网(drpy)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/DRJS/盛世电影网.js"},
-{"key":"drjs_浮生半日","name":"📁浮生半日(drpy)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/DRJS/浮生半日.js"},
+{"key":"drjs_盛世电影网","name":"📁盛世电影网(drpy)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/DJ/盛世电影网.json"},
+{"key":"drjs_浮生半日","name":"📁浮生半日(drpy)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/DJ/浮生半日.js"},
 {"key":"drjs_追剧迷","name":"📁追剧迷(drpy)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/DRJS/追剧迷.js"},
 {"key":"drjs_爱壹帆","name":"📁爱壹帆(drpy)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/DRJS/爱壹帆.js"},
 {"key":"drjs_看看电影","name":"📁看看电影(drpy)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/DRJS/看看电影.js"},
