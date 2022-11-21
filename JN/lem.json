@@ -50,7 +50,7 @@
 {"key":"csp_Juhuang","name":"🍟Lem专属 剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key": "Lib","name": "🎉Lem专属 Libvio(SP)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Lezhu_spider","name": "🐷Lem专属 乐猪影视(SP)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
-{"key":"棉花影视","name":"☁Lem专属 棉花影视(SP)","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"棉花影视","name":"☁Lem专属 棉花影视(SP)","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126"},
 {"key":"百影视频","name":"☁Lem专属 百影视频(SP)","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
 {"key":"NikeTV","name":"☁Lem专属 NikeTV(SP)","type":3,"api":"csp_NikeTV","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Voflix","name":"🌀Lem专属 Voflix(SP)","type":"3","api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
