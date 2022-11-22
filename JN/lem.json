@@ -23,7 +23,7 @@
 "wallpaper":"https://agit.ai/n3rd/N3RD/raw/branch/master/W/crimetv.png",
 
 "lives":[
-{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ="]}]}
+{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL24zcmQvTjNSRC9yYXcvYnJhbmNoL21hc3Rlci9KTi9saXZlLnR4dA=="]}]}
 ],
 
 "sites":[
