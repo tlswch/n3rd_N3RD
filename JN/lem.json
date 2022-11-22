@@ -22,6 +22,10 @@
 
 "wallpaper":"https://agit.ai/n3rd/N3RD/raw/branch/master/W/crimetv.png",
 
+"lives":[
+{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ="]}]}
+],
+
 "sites":[
 
 // ⇩⇩ jar包内东东 ⇩⇩
@@ -1280,21 +1284,7 @@
 {"key":"海外电影","name":"海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
 
 ],
-"lives":[
-{
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-           
-           //tuji
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdHVqaS0yMDE1L21pYW8vbWFpbi9UVkJveC90di9iYy50eHQ="
-          ]
-        }
-      ]
-    }
-],
+
 
 "rules": [
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
