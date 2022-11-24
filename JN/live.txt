@@ -40,17 +40,20 @@ Lem推荐,#genre#
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-Channel[V],http://tv.huel.edu.cn/hls/channelv.m3u8
-Channel[V],http://itv.ahau.edu.cn/hls/channelv.m3u8
-Channel[V],http://185.180.221.194:8278/streams/d/ChannelV/playlist.m3u8
-Channel[V],http://50.7.161.82:8278/streams/d/ChannelV_pye/playlist.m3u8
-Channel[V],https://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan
-Channel[V],http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8?bycoca
-Channel[V],http://live.scuec.edu.cn:8080/hls/channelv.m3u8
-Channel[V],http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-Channel[V],https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
-Channel[V],http://iptv.tvfix.org/hls/channelv.m3u8
+Channel [V],http://tv.huel.edu.cn/hls/channelv.m3u8
+Channel [V],http://itv.ahau.edu.cn/hls/channelv.m3u8
+Channel [V],http://185.180.221.194:8278/streams/d/ChannelV/playlist.m3u8
+Channel [V],http://50.7.161.82:8278/streams/d/ChannelV_pye/playlist.m3u8
+Channel [V],https://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan
+Channel [V],http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8?bycoca
+Channel [V],http://live.scuec.edu.cn:8080/hls/channelv.m3u8
+Channel [V],http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+Channel [V],https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
+Channel [V],http://iptv.tvfix.org/hls/channelv.m3u8
+MTV Biggest Top,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+MTV Live,http://127.0.0.1:6878/ace/manifest.m3u8?id=646199bf5062a990dda042d3068eaec9e8f2a047
+MTV Live,http://clubtv.link/nov1123/key2030/lista3.php?c=a050
+MTV,http://clubtv.link/nov1123/key2030/lista3.php?c=a01m
 
 
 央视,#genre#
