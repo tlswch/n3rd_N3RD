@@ -54,6 +54,7 @@ MTV Biggest Top,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACB
 MTV Live,http://127.0.0.1:6878/ace/manifest.m3u8?id=646199bf5062a990dda042d3068eaec9e8f2a047
 MTV Live,http://clubtv.link/nov1123/key2030/lista3.php?c=a050
 MTV,http://clubtv.link/nov1123/key2030/lista3.php?c=a01m
+MTV 00s,http://clubtv.link/nov1123/key2030/lista3.php?c=a04m
 
 
 央视,#genre#
