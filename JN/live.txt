@@ -53,16 +53,10 @@ Channel [V],http://iptv.tvfix.org/hls/channelv.m3u8
 
 
 MTV,#genre#
-MTV,http://clubtv.link/nov1123/key2030/lista3.php?c=a01m
-MTV,https://delivery.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
-MTV,https://h4.ustvgo.la/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMiAzOjA5OjMzIFBNJmhhc2hfdmFsdWU9eDNhNWVJa29qVHlET2xDcGU5dDRTQT09JnZhbGlkbWludXRlcz0yNDA=
-MTV,http://tv.factoryiptv.com:80/FhFBsN9J9V/factoryiptv/37071
-MTV,http://sg.cvacetv.ga/MTV
-MTV,http://stream.amrbd.com:8082/Mtv/index.m3u8
-MTV,http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061351
-MTV,http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/483
-MTV,http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/3952
-MTV,http://red.ipfox.org:8080/osama2022/osama2023/49093
+MTV1,http://clubtv.link/nov1123/key2030/lista3.php?c=a01m
+MTV2,http://tv.factoryiptv.com:80/FhFBsN9J9V/factoryiptv/37071
+MTV3,http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061351
+MTV4,http://red.ipfox.org:8080/osama2022/osama2023/49093
 MTV HD,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71261
 MTV Biggest Top,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 MTV Biggest Top,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS05/master.m3u8
