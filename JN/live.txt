@@ -57,6 +57,7 @@ MTV,http://clubtv.link/nov1123/key2030/lista3.php?c=a01m
 MTV,https://delivery.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
 MTV,https://h4.ustvgo.la/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMiAzOjA5OjMzIFBNJmhhc2hfdmFsdWU9eDNhNWVJa29qVHlET2xDcGU5dDRTQT09JnZhbGlkbWludXRlcz0yNDA=
 MTV,http://tv.factoryiptv.com:80/FhFBsN9J9V/factoryiptv/37071
+MTV,http://sg.cvacetv.ga/MTV
 MTV Biggest Top,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 MTV Biggest Top,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS05/master.m3u8
 MTV Live,http://127.0.0.1:6878/ace/manifest.m3u8?id=646199bf5062a990dda042d3068eaec9e8f2a047
