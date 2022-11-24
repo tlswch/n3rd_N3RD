@@ -53,6 +53,11 @@ Channel [V],http://iptv.tvfix.org/hls/channelv.m3u8
 
 
 MTV,#genre#
+MTV HD,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71261
+MTV HD,http://78.83.191.18:8000/play/a06q
+MTV HD,https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
+MTV HD,http://red.ipfox.org:8080/osama2022/osama2023/49093
+MTV HD,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMPOfTqE-lHOB2bEFhvrtAk/ts
 MTV,http://clubtv.link/nov1123/key2030/lista3.php?c=a01m
 MTV,https://delivery.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
 MTV,https://h4.ustvgo.la/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMiAzOjA5OjMzIFBNJmhhc2hfdmFsdWU9eDNhNWVJa29qVHlET2xDcGU5dDRTQT09JnZhbGlkbWludXRlcz0yNDA=
