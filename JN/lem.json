@@ -1,7 +1,8 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1123.jar;md5;A4CBD6EB4606FD533E4F8AA0448ECA79",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1124.jar;md5;35905CA4E82A553CBFE7E15732976D5C",
 
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1123.jar;md5;A4CBD6EB4606FD533E4F8AA0448ECA79",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1122.jar;md5;CD264290A1924A613F60CB66D354D66E",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1121.jar;md5;3637E64B87D7DBD8C36619138F3B911C",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1118.jar;md5;AFE9FCBB9556531329F4AB64785C30B1",
@@ -139,6 +140,8 @@
 {"key":"Yiso","name":"😺Lem专属 易搜(搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
 {"key":"Yisou","name":"😺Lem专属 易搜2(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
 {"key":"Upyunso","name":"😺Lem专属 云搜(搜索)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
+{"key":"Upso","name":"😺Lem专属 云搜2(搜索)","type":3,"api":"csp_Upso","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
+{"key":"UPanSo","name":"😺Lem专属 云搜3(搜索)","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
 {"key":"push_agent","name":"😺Lem专属 推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
 
 
