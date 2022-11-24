@@ -50,11 +50,18 @@ Channel [V],http://live.scuec.edu.cn:8080/hls/channelv.m3u8
 Channel [V],http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 Channel [V],https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 Channel [V],http://iptv.tvfix.org/hls/channelv.m3u8
+MTV,http://clubtv.link/nov1123/key2030/lista3.php?c=a01m
+MTV,https://delivery.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
+MTV,https://h4.ustvgo.la/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMiAzOjA5OjMzIFBNJmhhc2hfdmFsdWU9eDNhNWVJa29qVHlET2xDcGU5dDRTQT09JnZhbGlkbWludXRlcz0yNDA=
 MTV Biggest Top,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+MTV Biggest Top,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS05/master.m3u8
 MTV Live,http://127.0.0.1:6878/ace/manifest.m3u8?id=646199bf5062a990dda042d3068eaec9e8f2a047
 MTV Live,http://clubtv.link/nov1123/key2030/lista3.php?c=a050
-MTV,http://clubtv.link/nov1123/key2030/lista3.php?c=a01m
 MTV 00s,http://clubtv.link/nov1123/key2030/lista3.php?c=a04m
+MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
+MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS06/master.m3u8
 
 
 央视,#genre#
