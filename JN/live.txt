@@ -61,18 +61,15 @@ MTV,http://sg.cvacetv.ga/MTV
 MTV,http://stream.amrbd.com:8082/Mtv/index.m3u8
 MTV,http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061351
 MTV,http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/483
-MTV,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71259
-MTV,http://cineapp.org:8000/Fernando/Fernando/16997
 MTV,http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/3952
-MTV,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDAQKE6F-NUnTICemop4uj0/ts
-MTV,https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.uk.m3u8
-MTV,https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.de.m3u8
 MTV,http://red.ipfox.org:8080/osama2022/osama2023/49093
 MTV HD,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71261
 MTV Biggest Top,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 MTV Biggest Top,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS05/master.m3u8
 MTV Live,http://127.0.0.1:6878/ace/manifest.m3u8?id=646199bf5062a990dda042d3068eaec9e8f2a047
 MTV Live,http://clubtv.link/nov1123/key2030/lista3.php?c=a050
+MTV 90s,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71259
+MTV 90s,http://cineapp.org:8000/Fernando/Fernando/16997
 MTV 00s,http://clubtv.link/nov1123/key2030/lista3.php?c=a04m
 MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
