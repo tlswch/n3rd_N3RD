@@ -356,15 +356,10 @@ iHOT剧场,#genre#
 爱极限,http://111.11.123.28:6610/000000001000/6000000006000170630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961120221014135734296323&channel-id=wasusyt&Contentid=6000000006000170630
 
 Youtube油管直播,#genre#
-网路流行音乐电台,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669386527/ei/v3yAY9n1BM-H_9EPspi44Ak/ip/20.122.139.198/id/wrYF0HX7Kzc.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKAaxhMaO3-c3U8xV8-LhmDcB5-nX_MCwgIu6MhFU89IAiEAnbTtC7gaGl-kxB7mcbA7FkJC3HE0eanUJay5YggLqcE%3D/file/index.m3u8
-
-抖音热歌,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669386527/ei/v3yAY5uXHpaVhgbKmp7QAw/ip/20.122.139.198/id/ienaRsMkn9o.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMg3CxQ8mEN6BhGG13x2NzPGTHUh9pzEoM5hRc_h5-P9AiB4GeQC63eNtfJERiYrNTsS8AIyFqwbH1nn89u3i-alwQ%3D%3D/file/index.m3u8
-
-The Good Life Radio,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669386528/ei/wHyAY5bAAaXphwbexpTQDA/ip/20.122.139.198/id/36YnV9STBqc.8/source/yt_live_broadcast/requiressl/yes/tx/24412681/txs/24412676%2C24412677%2C24412678%2C24412679%2C24412680%2C24412681%2C24412682/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJp7CJjfdfRjHI63mZntoGLxQyFYjDT3c5wrXv-Q7sTOAiAw485aUEHfSTUUAtwOea7LzRnL9Zv8-IVgr9lyR1hILw%3D%3D/file/index.m3u8
-
-Good Vibes,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669386528/ei/wHyAY57JIoKc8wSppbXICA/ip/20.122.139.198/id/8w6CXY1npas.1/source/yt_live_broadcast/requiressl/yes/tx/24416441/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMNU6LraZc1zefQAZQIPyrsE7-GogDeISlioWufU2l_JAiEA7HH39guAnJHqzELZmgGFZlxQM6Xl4X4oRGKjVMyqRUY%3D/file/index.m3u8
-
-The Good Life Radio,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669386529/ei/wXyAY5vuArGN_9EPuJq-8AU/ip/20.122.139.198/id/36YnV9STBqc.8/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgA136UOyfDQJKE9uDt7kUktfii5YrHdn02o9E5Xb6tt4CIQDXpbc2h0cLa3u1quUomias0-ZDySv2mhsrIYu3oNEOIA%3D%3D/file/index.m3u8
+网路流行音乐电台,https://acg.kr/dy1
+抖音热歌,https://acg.kr/dy2
+Good Vibes,https://acg.kr/gl
+The Good Life Radio,https://acg.kr/gr
 
 MTV,#genre#
 MTV1,http://clubtv.link/nov1123/key2030/lista3.php?c=a01m
