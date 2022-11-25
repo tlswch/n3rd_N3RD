@@ -80,6 +80,7 @@ The K-POP2,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/TheKPOP2
 那些年我们听过的歌,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/那些年我们听过的歌.m3u8
 网路流行音乐电台,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/网路流行音乐电台.m3u8
 Raining Day Coffee,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/RainingDayCoffee.m3u8
+Disney Bedtime,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/DisneyBedtime.m3u8
 Sleeping Music,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/PrizeSleepSleepingMusic.m3u8
 Relaxing Piano Music,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/RelaxingPianoMusic.m3u8
 Flying Over Island,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/FlyingOverIsland.m3u8
