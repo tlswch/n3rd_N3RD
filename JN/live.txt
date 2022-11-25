@@ -83,6 +83,7 @@ Raining Day Coffee,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/
 Sleeping Music,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/PrizeSleepSleepingMusic.m3u8
 Relaxing Piano Music,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/RelaxingPianoMusic.m3u8
 Flying Over Island,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/FlyingOverIsland.m3u8
+Beautiful Nature,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/BeautifulNature.m3u8
 东森娱乐live,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/东森娱乐live.m3u8
 中视综艺live,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/中视综艺live.m3u8
 The Good Life Radio,
