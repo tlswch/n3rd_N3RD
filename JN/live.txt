@@ -50,6 +50,8 @@ Channel [V],http://live.scuec.edu.cn:8080/hls/channelv.m3u8
 Channel [V],http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 Channel [V],https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 Channel [V],http://iptv.tvfix.org/hls/channelv.m3u8
+MTV Biggest Top,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+MTV Biggest Top,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS05/master.m3u8
 
 
 油管直播(选EXO解码),#genre#
