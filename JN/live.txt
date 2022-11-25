@@ -83,11 +83,11 @@ Raining Day Coffee,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/
 The Good Life Radio,
 Billboard Hot 100,
 Lofi Girl,
-Sleeping Music,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/GetPrizeSleepSleepingMusic.m3u8
+Sleeping Music,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/PrizeSleepSleepingMusic.m3u8
 Relaxing Piano Music,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/RelaxingPianoMusic.m3u8
 Relaxing Covers,
-Animal Of The World,
-Flying Over Island,
+Animal Of The World,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/AnimalOfTheWorld.m3u8
+Flying Over Island,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/FlyingOverIsland.m3u8
 恶作剧之吻,
 包青天,
 犀利人妻,
