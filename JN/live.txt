@@ -83,8 +83,8 @@ Raining Day Coffee,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/
 The Good Life Radio,
 Billboard Hot 100,
 Lofi Girl,
-PrizeSleep Sleeping Music,
-Relaxing Piano Music,
+PrizeSleep Sleeping Music,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/PrizeSleepSleepingMusic.m3u8
+Relaxing Piano Music,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/RelaxingPianoMusic.m3u8
 Relaxing Covers,
 Animal Of The World,
 Flying Over Island,
