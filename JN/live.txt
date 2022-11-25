@@ -80,13 +80,15 @@ The K-POP2,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/TheKPOP2
 那些年我们听过的歌,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/那些年我们听过的歌.m3u8
 网路流行音乐电台,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/网路流行音乐电台.m3u8
 Raining Day Coffee,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/RainingDayCoffee.m3u8
+Sleeping Music,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/PrizeSleepSleepingMusic.m3u8
+Relaxing Piano Music,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/RelaxingPianoMusic.m3u8
+Flying Over Island,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/FlyingOverIsland.m3u8
+东森娱乐live,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/东森娱乐live.m3u8
+中视综艺live,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/中视综艺live.m3u8
 The Good Life Radio,
 Billboard Hot 100,
 Lofi Girl,
-Sleeping Music,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/PrizeSleepSleepingMusic.m3u8
-Relaxing Piano Music,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/RelaxingPianoMusic.m3u8
 Relaxing Covers,
-Flying Over Island,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/FlyingOverIsland.m3u8
 恶作剧之吻,
 包青天,
 犀利人妻,
@@ -94,8 +96,7 @@ Flying Over Island,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/
 饥渴游戏,
 天才冲冲冲,
 MIT台湾誌,
-东森娱乐live,
-中视综艺live,
+
 
 
 央视,#genre#
