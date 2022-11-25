@@ -71,13 +71,14 @@ CCTV中文国际,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/CC
 油管轮播(选EXO解码),#genre#
 Good Vibes,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/GoodVibes.m3u8
 Jazz Covers,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/JazzCovers.m3u8
-Radio Hits Music,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/RadioHitsMusic.m3u8
+Hits Radio 1,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/RadioHitsMusic.m3u8
+Hits Top Songs,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/RadioHitsMusic2.m3u8
+Pop Radio,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/PopRadio.m3u8
 The K-POP,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/TheKPOP.m3u8
 The K-POP2,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/TheKPOP2.m3u8
 10-22年经典歌曲,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/1022年经典歌曲.m3u8
 那些年我们听过的歌,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/那些年我们听过的歌.m3u8
 网路流行音乐电台,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/网路流行音乐电台.m3u8
-November Chill Mix,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/NovemberChillMix.m3u8
 Raining Day Coffee,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/RainingDayCoffee.m3u8
 The Good Life Radio,
 Billboard Hot 100,
