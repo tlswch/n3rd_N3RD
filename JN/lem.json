@@ -49,7 +49,6 @@
 //{"key":"APPTT","name":"🗺Lem专属 图图影视(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Tutu_spider","name":"🗺Lem专属 图图影视(SP)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://43.154.35.148:9797/api/tutuapp.php"},
 {"key":"AppTT","name":"🗺Lem专属 图图影视(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"110c922de7d69804467fb83d3bb664b5"},
-//{"key":"YQK_spider","name":"📺Lem专属 一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 {"key":"csp_77","name":"🎬Lem专属 酷云77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"👀Lem专属 快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_zxzj","name":"📹Lem专属 在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
@@ -132,6 +131,7 @@
 //{"key":"RelaxSP","name":"🛴Lem专属 轻松影视(SP)","api":"csp_RelaxSP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 //{"key":"MiniYs_spider","name":"🐾Lem专属 迷你影视(SP)","api":"csp_MiniYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 //{"key":"LCsp_spider","name":"🍊Lem专属 乐橙视频(SP)","api":"csp_LvChaYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+//{"key":"YQK_spider","name":"📺Lem专属 一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 
 
 //搜索
