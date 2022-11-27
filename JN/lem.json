@@ -1,7 +1,8 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1126.jar;md5;4A834A7B9BAC82B35709B1166156CAC6",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1127.jar;md5;884026DA424003504A2F808A0519FB20",
 
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1126.jar;md5;4A834A7B9BAC82B35709B1166156CAC6",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1124.jar;md5;558FF8D4059A492A278BE81F387FA04D",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1123.jar;md5;A4CBD6EB4606FD533E4F8AA0448ECA79",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1122.jar;md5;CD264290A1924A613F60CB66D354D66E",
@@ -47,8 +48,13 @@
 {"key": "csp_Bili","name":"🅱Lem专属 哔哩哔哩(SP)","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Bili1.json"},
 //{"key":"Bili","name":"🅱Lem专属 哔哩哔哩(SP)","type":"3","api":"csp_Dora","searchable":0,"quickSearch":0,"filterable":0,"ext":"85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Bili1.json"},
 //{"key": "csp_BBB","name":"🅱Lem专属 哔哩套餐","type": 3,"api": "csp_BBB","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Bili1.json"},
-//{"key":"APPTT","name":"🗺Lem专属 图图影视(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.6.212:7788"},
 {"key":"AppTTTS","name":"🗺Lem专属 图图影视(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"110c922de7d69804467fb83d3bb664b5"},
+{"key":"Tutu_spider","name":"🗺Lem专属 图图影视(SP)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://43.154.35.148:9797/api/tutuapp.php"},
+//{"key":"APPTT","name":"🗺Lem专属 图图影视(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.6.212:7788"},
+{"key":"YQK_spider","name":"📺Lem专属 一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
+{"key":"棉花影视","name":"☁Lem专属 棉花影视(SP)","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126"},
+{"key":"百影视频","name":"☁Lem专属 百影视频(SP)","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
+{"key":"NikeTV","name":"☁Lem专属 NikeTV(SP)","type":3,"api":"csp_NikeTV","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_77","name":"🎬Lem专属 酷云77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"👀Lem专属 快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_zxzj","name":"📹Lem专属 在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
@@ -102,6 +108,7 @@
 {"key":"csp_Gitcafe","name":"📜Lem专属 小纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
 {"key": "Anfuns","name": "🤖Lem专属 Anfuns(SP)","type": 3,"api": "csp_Anfuns","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Anime1","name": "🤖Lem专属 Anime1动画线上看(SP)","api":"csp_Anime1","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
+{"key":"dm77_spider","name":"🤖Lem专属 齐齐动漫(SP)","api":"csp_DM77","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_Dm84","name":"🤖Lem专属 动漫巴士(SP)","type":3,"api":"csp_Dm84","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},  
 {"key": "IQIYI","name": "🥝Lem专属 爱奇艺(SP)","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "MGTV","name": "🥭Lem专属 芒果TV(SP)","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -126,12 +133,7 @@
 //{"key":"RelaxSP","name":"🛴Lem专属 轻松影视(SP)","api":"csp_RelaxSP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 //{"key":"MiniYs_spider","name":"🐾Lem专属 迷你影视(SP)","api":"csp_MiniYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 //{"key":"LCsp_spider","name":"🍊Lem专属 乐橙视频(SP)","api":"csp_LvChaYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-//{"key":"YQK_spider","name":"📺Lem专属 一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
-//{"key":"棉花影视","name":"☁Lem专属 棉花影视(SP)","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126"},
-//{"key":"百影视频","name":"☁Lem专属 百影视频(SP)","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
-//{"key":"NikeTV","name":"☁Lem专属 NikeTV(SP)","type":3,"api":"csp_NikeTV","searchable":1,"quickSearch":1,"filterable":0},
-//{"key":"Tutu_spider","name":"🗺Lem专属 图图影视(SP)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://43.154.35.148:9797/api/tutuapp.php"},
-//{"key":"dm77_spider","name":"🤖Lem专属 齐齐动漫(SP)","api":"csp_DM77","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+
 
 
 //搜索
@@ -143,6 +145,7 @@
 {"key":"Yisou","name":"😺Lem专属 易搜2(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
 {"key":"Upyunso","name":"😺Lem专属 云搜(搜索)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
 {"key":"Upso","name":"😺Lem专属 云搜2(搜索)","type":3,"api":"csp_Upso","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
+{"key":"UPanSo","name":"😺Lem专属 云搜3(搜索)","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
 {"key":"push_agent","name":"😺Lem专属 推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
 
 
