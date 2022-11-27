@@ -65,8 +65,10 @@ MTV Biggest Top,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACB
 中天新闻2,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/中天新闻2.m3u8
 凤凰资讯台,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/凤凰资讯台.m3u8
 CCTV中文国际,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/CCTV中文国际.m3u8
+
+
+油管电台(选EXO解码),#genre#
 Hit FM 北部,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/HitFM北部.m3u8
-Hit FM 南部,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/HitFM南部.m3u8
 8FM 线上收听,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/8FM线上收听.m3u8
 Fly FM,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/FlyFM.m3u8
 HITZ,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/HITZ.m3u8
