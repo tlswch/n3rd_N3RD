@@ -1,3 +1,4 @@
 2022.11.27 lem1127.jar;md5;884026DA424003504A2F808A0519FB20
 
-1.恢复YQKAPP,MianHua,NikeTV,DM77,Czapp.
+1.恢复YQKAPP,MianHua,NikeTV,DM77,Czapp。
+2.直播新增Youtube直播、轮播、电台频道。
