@@ -53,6 +53,7 @@ Channel [V],https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.
 Channel [V],http://iptv.tvfix.org/hls/channelv.m3u8
 MTV Biggest Top,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 MTV Biggest Top,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS05/master.m3u8
+东森娱乐LIVE(选EXO解码),https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/东森娱乐live.m3u8
 
 
 油管直播(选EXO解码),#genre#
@@ -95,8 +96,8 @@ Sleeping Music,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/Priz
 Relaxing Piano Music,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/RelaxingPianoMusic.m3u8
 Flying Over Island,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/FlyingOverIsland.m3u8
 Beautiful Nature,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/BeautifulNature.m3u8
-东森娱乐live,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/东森娱乐live.m3u8
-中视综艺live,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/中视综艺live.m3u8
+东森娱乐LIVE,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/东森娱乐live.m3u8
+中视综艺LIVE,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/中视综艺live.m3u8
 The Good Life Radio,
 Billboard Hot 100,
 Lofi Girl,
