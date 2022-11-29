@@ -400,7 +400,7 @@
 
 //道长DRPY-JS规则
 
-{"key":"drjs_AList","name":"👺Lem专属 豆瓣推荐(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/alist.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/drpy.js"},
+{"key":"drjs_豆瓣推荐","name":"👺Lem专属 豆瓣推荐(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/alist.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/drpy.js"},
 {"key":"drjs_AList","name":"👺Lem专属 AList(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/alist.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/li.json"},
 {"key":"drjs_看BZ影视","name":"👺Lem专属 看BZ影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/DRJS/看BZ影视.js"},
 {"key":"drjs_偲霖影视","name":"👺Lem专属 偲霖影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/DRJS/偲霖影视.js"},
