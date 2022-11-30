@@ -56,7 +56,6 @@
 {"key":"百影视频","name":"☁Lem专属 百影视频(SP)","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
 {"key":"NikeTV","name":"✔Lem专属 NikeTV(SP)","type":3,"api":"csp_NikeTV","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Dy6080","name":"🗻Lem专属 新视觉影院(SP)","type":3,"api":"csp_Dy6080","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Wybg","name":"🏘Lem专属 影视之家(SP)","type":3,"api":"csp_Wybg","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"🎬Lem专属 酷云77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"👀Lem专属 快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_zxzj","name":"📹Lem专属 在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
@@ -136,6 +135,7 @@
 //{"key":"LCsp_spider","name":"🍊Lem专属 乐橙视频(SP)","api":"csp_LvChaYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 //{"key":"KanSJ_spider","name":"🗽Lem专属 看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 //{"key":"293视频","name":"2️⃣Lem专属 293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+//{"key":"csp_Wybg","name":"🏘Lem专属 影视之家(SP)","type":3,"api":"csp_Wybg","searchable":1,"quickSearch":1,"filterable":1},
 
 
 //搜索
