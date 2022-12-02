@@ -57,29 +57,29 @@ MTV Biggest Top,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACB
 东森娱乐LIVE(选EXO解码),https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/东森娱乐live.m3u8
 
 油管直播(选EXO解码),#genre#
-中天新闻,https://github.com/lem85930/YTM/raw/main/中天新闻.m3u8
-中天新闻2,https://github.com/lem85930/YTM/raw/main/中天新闻2.m3u8
-TVBS News,https://github.com/lem85930/utlive/raw/YTlive/TVBS.m3u8
-TVBS国际+,https://github.com/lem85930/utlive/raw/YTlive/TVBS新闻2.m3u8
-台视新闻,https://github.com/lem85930/YTM/raw/main/台视新闻.m3u8
-三立+新闻,https://github.com/lem85930/YTM/raw/main/三立新闻.m3u8
-三立iNews新闻,https://github.com/lem85930/YTM/raw/main/三立iNews新闻.m3u8
-民视新闻,https://github.com/lem85930/YTM/raw/main/民视新闻.m3u8
-中视新闻,https://github.com/lem85930/YTM/raw/main/中视新闻.m3u8
-寰宇新闻,https://github.com/lem85930/YTM/raw/main/寰宇新闻.m3u8
-东森财经新闻,https://github.com/lem85930/YTM/raw/main/东森财经新闻.m3u8
-凤凰资讯台,https://github.com/lem85930/YTM/raw/main/凤凰资讯台.m3u8
-CCTV中文国际,https://github.com/lem85930/YTM/raw/main/CCTV中文国际.m3u8
+中天新闻,https://raw.githubusercontent.com/lem85930/YTM/main/中天新闻.m3u8
+中天新闻2,https://raw.githubusercontent.com/lem85930/YTM/main/中天新闻2.m3u8
+三立+新闻,https://raw.githubusercontent.com/lem85930/YTM/main/三立新闻.m3u8
+三立iNews新闻,https://raw.githubusercontent.com/lem85930/YTM/main/三立iNews新闻.m3u8
+台视新闻,https://raw.githubusercontent.com/lem85930/YTM/main/台视新闻.m3u8
+民视新闻,https://raw.githubusercontent.com/lem85930/YTM/main/民视新闻.m3u8
+中视新闻,https://raw.githubusercontent.com/lem85930/YTM/main/中视新闻.m3u8
+TVBS News,https://raw.githubusercontent.com/lem85930/utlive/YTlive/TVBS.m3u8
+TVBS国际+,https://raw.githubusercontent.com/lem85930/utlive/YTlive/TVBS新闻2.m3u8
+寰宇新闻,https://raw.githubusercontent.com/lem85930/YTM/main/寰宇新闻.m3u8
+东森财经新闻,https://raw.githubusercontent.com/lem85930/YTM/main/东森财经新闻.m3u8
+凤凰资讯台,https://raw.githubusercontent.com/lem85930/YTM/main/凤凰资讯台.m3u8
+CCTV中文国际,https://raw.githubusercontent.com/lem85930/YTM/main/CCTV中文国际.m3u8
 
 中天新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/中天新闻.m3u8
 中天新闻2,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/中天新闻2.m3u8
-TVBS News,https://ghproxy.com/https://github.com/lem85930/utlive/raw/YTlive/TVBS.m3u8
-TVBS国际+,https://ghproxy.com/https://github.com/lem85930/utlive/raw/YTlive/TVBS新闻2.m3u8
-台视新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/台视新闻.m3u8
 三立+新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/三立新闻.m3u8
 三立iNews新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/三立iNews新闻.m3u8
+台视新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/台视新闻.m3u8
 民视新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/民视新闻.m3u8
 中视新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/中视新闻.m3u8
+TVBS News,https://ghproxy.com/https://github.com/lem85930/utlive/raw/YTlive/TVBS.m3u8
+TVBS国际+,https://ghproxy.com/https://github.com/lem85930/utlive/raw/YTlive/TVBS新闻2.m3u8
 寰宇新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/寰宇新闻.m3u8
 东森财经新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/东森财经新闻.m3u8
 凤凰资讯台,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/凤凰资讯台.m3u8
