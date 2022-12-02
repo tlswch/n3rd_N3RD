@@ -69,7 +69,7 @@
 {"key": "Bdys01","name": "📯Lem专属 哔嘀影视(SP)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Bdys02","name": "📯Lem专属 哔嘀影视(SSSVIP)","type": 3,"api": "csp_Bdys02","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Zjdr","name": "👦Lem专属 追剧达人(SP)","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key": "Zjdr","name": "👦Lem专属 追剧达人(SP)","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"778e8966ec0e9c0ae0b4682ad3550f40"},
+{"key": "ZjdrTS","name": "👦Lem专属 追剧达人(SP)","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"778e8966ec0e9c0ae0b4682ad3550f40"},
 {"key":"csp_Yanet","name":"🦆Lem专属 鸭奈飞(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349"},
 {"key":"Tian","name":"🌝Lem专属 天天影视(SP)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"bdc1c75081e5e477189a463baa47e392"},
 {"key":"Pang","name":"🐯Lem专属 胖虎影视(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"c41fdb671b20925c76fa9b6ff8bad027"},
