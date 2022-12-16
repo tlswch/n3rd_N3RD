@@ -9,7 +9,7 @@
 
 //Lem缝合包
 
-
+{"key":"csp_Dy6080","name":"🗻Lem专属 新视觉影院(SP)","type":3,"api":"csp_Dy6080","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"RelaxSP","name":"🛴Lem专属 轻松影视(SP)","api":"csp_RelaxSP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"MiniYs_spider","name":"🐾Lem专属 迷你影视(SP)","api":"csp_MiniYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"棉花影视","name":"☁Lem专属 棉花影视(SP)","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":0},
