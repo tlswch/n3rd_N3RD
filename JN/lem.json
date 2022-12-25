@@ -96,7 +96,6 @@
 {"key":"csp_Bttoo","name":"✌Lem专属 2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Wmkk","name":"👁‍Lem专属 完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_3EDY","name":"3️⃣Lem专属 3EDY(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_追剧喵","name":"😸Lem专属 追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_mjxq","name":"🌍Lem专属 美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tkys","name":"🐞Lem专属 天空影视(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_小熊","name": "🐻Lem专属 小熊TV(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -147,7 +146,7 @@
 //{"key":"dr_豆瓣","name":"📡Lem专属 豆瓣推荐","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://3.37.195.161:54371/admin/view/drpy.js"},
 //{"key": "csp_BBB","name":"🅱Lem专属 哔哩套餐","type": 3,"api": "csp_BBB","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Bili1.json"},
 //{"key":"csp_Duboku","name":"🧠Lem专属 独播库(需翻墙)","type":3,"api":"csp_Duboku","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XP/duboku.json"},
-
+//{"key":"csp_追剧喵","name":"😸Lem专属 追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 
 
 
