@@ -1,7 +1,8 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0107.jar;md5;42BD9A32AA8F47B3486ACA5FA6B25FD2",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0108.jar;md5;A10E3B3A27290ECF2609F1DB9C87497D",
 
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0107.jar;md5;42BD9A32AA8F47B3486ACA5FA6B25FD2",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0106.jar;md5;D18E8420127A0DDC9C0AB96862279CDE",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1229.jar;md5;183FCB18323E88CE01B79DEE16DC5BBB",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1225.jar;md5;48755693EB7B7B30F5753D8CDCDCBA35",
@@ -97,6 +98,7 @@
 {"key":"csp_360","name":"📺Lem专属 360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_apple","name":"🍎Lem专属 小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"✌Lem专属 2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_yema","name":"🐎Lem专属 野马(APPYS)","type":"3","api":"csp_AppYsV2","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://v.yemays.tk/api.php/app/"},
 {"key":"csp_Wmkk","name":"👁‍Lem专属 完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_3EDY","name":"3️⃣Lem专属 3EDY(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_mjxq","name":"🌍Lem专属 美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
