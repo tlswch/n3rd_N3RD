@@ -157,7 +157,7 @@
 
 //搜索
 
-
+{"key":"PanSou","name":"🐱Lem专属 盘搜(搜索)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
 {"key":"Zhaozy","name":"😺Lem专属 找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
 {"key":"Yiso","name":"😺Lem专属 易搜(搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
 {"key":"UpYun","name":"😺Lem专属 云搜(搜索)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
