@@ -604,6 +604,11 @@
 
 //香雅情XYQHiker规则
 
+{"key":"csp_XYQHiker_外剧迷","name":"🤍Lem专属 外剧迷(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/外剧迷.json"},
+{"key":"csp_XYQHiker_野马影院","name":"🤍Lem专属 野马影院(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/野马影院.json"},
+{"key":"csp_XYQHiker_追剧兔","name":"🤍Lem专属 追剧兔(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/追剧兔.json"},
+{"key":"csp_XYQHiker_爱看影视","name":"🤍Lem专属 爱看影视(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/爱看影视.json"},
+{"key":"csp_XYQHiker_莫扎兔","name":"🤍Lem专属 莫扎兔(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/莫扎兔.json"},
 {"key":"csp_XYQHiker_氢视频","name":"🤍Lem专属 氢视频(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/氢视频.json"},
 {"key":"csp_XYQHiker_特狗影视","name":"🤍Lem专属 特狗影视(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/特狗影视.json"},
 {"key":"csp_XYQHiker_独播库","name":"🤍Lem专属 独播库(XHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/独播库.json"},
