@@ -1476,7 +1476,6 @@
 {"name":"🈹10C","type":0,"url":"https://www.pangujiexi.com/pangu/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈹11T","type":0,"url":"https://www.ckmov.vip/api.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈹19T","type":0,"url":"https://vip.52jiexi.top/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-//{"name":"⌛️Q1A","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️BT5V","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️FUQ","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️Q1C","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20221230?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
@@ -1485,7 +1484,8 @@
 {"name":"⌛️DYG","type":1,"url":"http://13.125.130.101:55834/parse/api/dyg.js?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️CK","type":1,"url":"http://api.ckflv.cn/?url=","ext": {"flag": ["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 {"name":"⌛️扶风","type":1,"url":"https://www.1920lgzy.top/json.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"⌛️江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}}
+{"name":"⌛️江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"万年魂环解析","type":1,"url":"https://jiexi.parses.repl.co/api.php?url="}
 ],
 "flags":["youku","qq","iqiyi","qiyi", "letv","sohu","tudou","pptv","mgtv","wasu","renrenmi","duoduozy","bilibili"],
 "ijk":[
