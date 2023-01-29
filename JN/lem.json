@@ -113,7 +113,7 @@
 {"key":"csp_Tangrenjie","name":"🍬Lem专属 唐人街(需翻墙)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 //{"key":"csp_nbys","name":"🏝Lem专属 泥巴(需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_NiNi","name":"🏝Lem专属 泥巴影院(需翻墙)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Paper","name":"📜Lem专属 小纸条(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
+{"key":"csp_Paper","name":"📜Lem专属 小纸条(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://xn--ihqu10cn4c.xn--z7x900a.love:63/token.php"},
 {"key":"csp_Anfuns","name": "🤖Lem专属 Anfuns(SP)","type": 3,"api": "csp_Anfuns","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Anime1","name": "🤖Lem专属 Anime1动画线上看(SP)","api":"csp_Anime1","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
 {"key":"csp_dm77","name":"🤖Lem专属 齐齐动漫(SP)","api":"csp_DM77","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
@@ -165,11 +165,11 @@
 
 //搜索
 
-{"key":"PanSou","name":"🐱Lem专属 盘搜(搜索)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
-{"key":"Zhaozy","name":"😺Lem专属 找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt$$$xxooo$$$qq112233"},
-{"key":"YiSo","name":"😺Lem专属 易搜(搜索)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
-{"key":"UpYun","name":"😺Lem专属 云搜(搜索)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
-{"key":"push_agent","name":"😺Lem专属 推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
+{"key":"PanSou","name":"🐱Lem专属 盘搜(搜索)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--ihqu10cn4c.xn--z7x900a.love:63/token.php"},
+{"key":"Zhaozy","name":"😺Lem专属 找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--ihqu10cn4c.xn--z7x900a.love:63/token.php"},
+{"key":"YiSo","name":"😺Lem专属 易搜(搜索)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--ihqu10cn4c.xn--z7x900a.love:63/token.php"},
+{"key":"UpYun","name":"😺Lem专属 云搜(搜索)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--ihqu10cn4c.xn--z7x900a.love:63/token.php"},
+{"key":"push_agent","name":"😺Lem专属 推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://xn--ihqu10cn4c.xn--z7x900a.love:63/token.php"},
 {"key":"UPanSo","name":"😺Lem专属 优盘搜(选原画)","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8"},
 {"key":"AliPanSou","name":"🐱Lem专属 盘搜(选原画)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"676d915af62243a68674a709b3eac5d8"},
 {"key":"FindZY","name":"😺Lem专属 找资源(备用)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8"},
