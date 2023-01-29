@@ -1,7 +1,8 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0127.jar;md5;528796CE7CABCCB752B06A37CA42625B",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0129.jar;md5;F9080249BDF59AD11D140D40B8190E22",
 
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0127.jar;md5;528796CE7CABCCB752B06A37CA42625B",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0120.jar;md5;92E6A221ACC221AA2864B6CB309C810E",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0112.jar;md5;679630950DF41EABCACE5FCB72166A97",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0108.jar;md5;A10E3B3A27290ECF2609F1DB9C87497D",
@@ -99,6 +100,7 @@
 {"key":"csp_Ysgc","name":"🏭Lem专属 影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"👨‍🌾Lem专属 农民影视(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Nmys.json"},
 {"key":"csp_360","name":"📺Lem专属 360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_SP2345","name":"🥦Lem专属 2345(SP)","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_apple","name":"🍎Lem专属 小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"✌Lem专属 2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Wmkk","name":"👁‍Lem专属 完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
