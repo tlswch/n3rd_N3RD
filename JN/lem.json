@@ -1556,7 +1556,12 @@
 {"name":"⌛️江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"Q1官解","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20230117?url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"星辰云解析","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=22ea7ae4746073f5ea13e9079c024c7d&url=","header":{"User-Agent":"Mozilla/5.0"}}
+{"name":"星辰云解析","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=22ea7ae4746073f5ea13e9079c024c7d&url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"Q1官解2","type":1,"url":"http://150.158.175.250:88/parse/sign/38c0c56102aff0059284be4e9f54eb11?url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},{"name":"dy6g","type":0,"url":"https://vip.lianfaka.com/vip/?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","Referer":"https://www.dy6g.com/"}}},
+{"name":"布雷","type":0,"url":"https://bf.bulei.cc/player/?url=","ext":{"flag":["qq","腾讯"]}},
+{"name":"兰花解析","type":0,"url":"http://pandown.pro/app/ysmjx.php?url=","ext":{"flag":["rx","ltnb","renrenmi","rongxing","bilibili","哔哩哔哩","哔哩","youku","优酷","qiyi","爱奇艺","奇艺","qq","腾讯","mgtv","芒果","sohu","搜狐","letv","乐视","xigua","CL4K","西瓜"]}},
+{"name":"时光解析","type":0,"url":"https://v.shigys.com/addons/dp/player/index.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}}
 ],
 "flags":["youku","qq","iqiyi","qiyi", "letv","sohu","tudou","pptv","mgtv","wasu","renrenmi","duoduozy","bilibili"],
 "ijk":[
