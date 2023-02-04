@@ -1,7 +1,8 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0130.jar;md5;0DBE90F65A6EC420FEA8451A508D5B03",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0204.jar;md5;AC7480B9FEBFF3E71A04F548E05E8343",
 
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0130.jar;md5;0DBE90F65A6EC420FEA8451A508D5B03",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0129.jar;md5;F9080249BDF59AD11D140D40B8190E22",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0127.jar;md5;528796CE7CABCCB752B06A37CA42625B",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0120.jar;md5;92E6A221ACC221AA2864B6CB309C810E",
@@ -70,6 +71,7 @@
 {"key":"csp_百影视频","name":"☁Lem专属 百影视频(SP)","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
 {"key":"csp_NikeTV","name":"✔Lem专属 NikeTV(SP)","type":3,"api":"csp_NikeTV","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_BuLei","name":"👨Lem专属 布蕾蓝光(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_AppBuLei","name":"👨Lem专属 布蕾蓝光(备用)","type":3,"api":"csp_AppBuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"🗻Lem专属 新视觉影院(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"🎬Lem专属 酷云77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"👀Lem专属 快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
