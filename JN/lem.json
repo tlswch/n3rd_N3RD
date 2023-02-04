@@ -118,9 +118,7 @@
 {"key":"csp_Xiaoh","name":"👶Lem专属 小宝影院(需翻墙)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
 {"key":"csp_If101","name":"1️⃣Lem专属 If101(需翻墙)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tangrenjie","name":"🍬Lem专属 唐人街(需翻墙)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-//{"key":"csp_nbys","name":"🏝Lem专属 泥巴(需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_NiNi","name":"🏝Lem专属 泥巴影院(需翻墙)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Anfuns","name": "🤖Lem专属 Anfuns(SP)","type": 3,"api": "csp_Anfuns","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Anime1","name": "🤖Lem专属 Anime1动画线上看(SP)","api":"csp_Anime1","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
 {"key":"csp_dm77","name":"🤖Lem专属 齐齐动漫(SP)","api":"csp_DM77","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_Acg","name":"🤖Lem专属 Acg动漫(SP)","type":3,"api":"csp_Acg","searchable":1,"quickSearch":1,"filterable":1},
@@ -168,6 +166,9 @@
 //{"key":"csp_Zjdr","name": "👦Lem专属 追剧达人(SP)","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_Zjdr_TS","name": "👦Lem专属 追剧达人(SP)","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"778e8966ec0e9c0ae0b4682ad3550f40"},
 //{"key":"csp_Fantuan","name": "🍙Lem专属 饭团(SP)","type": 3,"api": "csp_Fantuan","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key":"csp_Anfuns","name": "🤖Lem专属 Anfuns(SP)","type": 3,"api": "csp_Anfuns","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key":"csp_nbys","name":"🏝Lem专属 泥巴(需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+
 
 //搜索
 
