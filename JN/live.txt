@@ -8,6 +8,25 @@ CCTV4K,http://159.75.85.63:8765/telegram@feiyangdigital-cctv4k.m3u8
 CCTV16-4K,http://159.75.85.63:8765/telegram@feiyangdigital-cctv16-4k.m3u8 
 广东综艺4K,http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
 
+凤凰香港,http://27.47.71.49:8811/hls/34/index.m3u8?$1080P
+翡翠台,http://27.47.71.49:8811/hls/36/index.m3u8?$576P
+明珠台,http://27.47.71.49:8811/hls/37/index.m3u8?$576P
+星空卫视,http://27.47.71.49:8811/hls/31/index.m3u8?$576P
+TVB星河,http://27.47.71.49:8811/hls/35/index.m3u8?$1080P
+东森电影,http://27.47.71.49:8811/hls/58/index.m3u8?$1080P
+东森洋片,http://27.47.71.49:8811/hls/59/index.m3u8?$1080P
+龙祥时代,http://27.47.71.49:8811/hls/38/index.m3u8?$1080P
+天映经典,http://27.47.71.49:8811/hls/62/index.m3u8?$1080P
+凤凰香港,http://27.47.71.203:8811/hls/34/index.m3u8?$1080P
+翡翠台,http://27.47.71.203:8811/hls/36/index.m3u8?$576P
+明珠台,http://27.47.71.203:8811/hls/37/index.m3u8?$576P
+星空卫视,http://27.47.71.203:8811/hls/31/index.m3u8?$576P
+TVB星河,http://27.47.71.203:8811/hls/35/index.m3u8?$1080P
+东森电影,http://27.47.71.203:8811/hls/58/index.m3u8?$1080P
+东森洋片,http://27.47.71.203:8811/hls/59/index.m3u8?$1080P
+龙祥时代,http://27.47.71.203:8811/hls/38/index.m3u8?$1080P
+天映经典,http://27.47.71.203:8811/hls/62/index.m3u8?$1080P
+
 
 Lem推荐,#genre#
 重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
