@@ -168,7 +168,7 @@
 //搜索
 
 {"key":"PanSou","name":"🐱Lem专属 盘搜(搜索)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--ihqu10cn4c.xn--z7x900a.love:63/token.php"},
-{"key":"Zhaozy","name":"😺Lem专属 找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--ihqu10cn4c.xn--z7x900a.love:63/token.php"},
+{"key":"Zhaozy","name":"😺Lem专属 找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--ihqu10cn4c.xn--z7x900a.love:63/token.php$$$xxooo$$$qq112233"},
 {"key":"YiSo","name":"😺Lem专属 易搜(搜索)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--ihqu10cn4c.xn--z7x900a.love:63/token.php"},
 {"key":"UpYun","name":"😺Lem专属 云搜(搜索)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--ihqu10cn4c.xn--z7x900a.love:63/token.php"},
 {"key":"push_agent","name":"😺Lem专属 推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://xn--ihqu10cn4c.xn--z7x900a.love:63/token.php"},
