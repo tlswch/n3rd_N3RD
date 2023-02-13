@@ -65,6 +65,7 @@
 {"key":"xml_百淘影视","name":"🚀Lem专属 百淘影视","type":1,"api":"http://ys.58g8.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"xml_新浪资源","name":"🚀Lem专属 新浪资源","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
 {"key":"xml_光速资源","name":"🚀Lem专属 光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
+{"key":"drjs_小丫搜索","name":"🙎‍♀️Lem专属 小丫搜索","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/xy.json"},
 {"key":"csp_Bili","name":"🅱Lem专属 哔哩哔哩(SP)","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Bili1.json"},
 //{"key":"csp_Bili_TS","name":"🅱Lem专属 哔哩哔哩(SP)","type":"3","api":"csp_Dora","searchable":0,"quickSearch":0,"filterable":0,"ext":"85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Bili1.json"},
 {"key":"csp_APPTT","name":"🗺Lem专属 图图影视(SP)","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
@@ -170,7 +171,6 @@
 //{"key":"csp_Anfuns","name": "🤖Lem专属 Anfuns(SP)","type": 3,"api": "csp_Anfuns","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_nbys","name":"🏝Lem专属 泥巴(需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 //{"key":"csp_bdys","name": "📣Lem专属 哔嘀(磁力测试)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XP/Bdys.json"},
-//{"key":"drjs_小丫搜索","name":"🙎‍♀️Lem专属 小丫搜索","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/xy.json"},
 //{"key":"csp_SP2345","name":"🥦Lem专属 2345(SP)","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1},
 
 
