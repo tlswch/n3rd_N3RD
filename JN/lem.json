@@ -1,7 +1,8 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0214.jar;md5;3D1249E6B8C44391D0E2E93D13E189D3",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0215.jar;md5;88E02A37223EE3AF3F9327DBEAA3175A",
 
+//"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0214.jar;md5;3D1249E6B8C44391D0E2E93D13E189D3",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0213.jar;md5;4D247E91302D89D9A10E0D7CE15F899E",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0212.jar;md5;CF9CF4E673EF2949E87DB158993E4C3E",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0204.jar;md5;AC7480B9FEBFF3E71A04F548E05E8343",
@@ -90,7 +91,8 @@
 //{"key":"csp_Pang_TS","name":"🐯Lem专属 胖虎影视(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"c41fdb671b20925c76fa9b6ff8bad027"},
 {"key":"csp_Panghu","name":"🐯Lem专属 胖虎影视(SP)","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ShiLiu_TS","name":"🍇Lem专属 石榴电影(SP)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
-//{"key":"sliu_spider","name":"🍇Lem专属 石榴电影(SP)","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"ext":""},
+{"key":"csp_Slsp","name":"🍇Lem专属 石榴电影(备用)","type":3,"api":"csp_Slsp","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XP/石榴电影.json"},
+//{"key":"csp_ShiLiuDY","name":"🍇Lem专属 石榴电影(SP)","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"ext":""},
 {"key":"csp_IKan_TS","name":"💖Lem专属 爱看(SP)","type":3,"api":"csp_Dora","quickSearch":1,"searchable":1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
 {"key":"csp_Smdyy_TS","name": "🐴Lem专属 神马影院(SP)","type": 3,"api": "csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"16705ee9f4764be8499806f52d4bf1e7"},
 {"key":"csp_Ys555","name":"5️⃣️Lem专属 555电影(SP)","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
