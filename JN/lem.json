@@ -1601,7 +1601,20 @@
 {"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},{"name":"dy6g","type":0,"url":"https://vip.lianfaka.com/vip/?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","Referer":"https://www.dy6g.com/"}}},
 {"name":"布雷","type":0,"url":"https://bf.bulei.cc/player/?url=","ext":{"flag":["qq","腾讯"]}},
 {"name":"兰花解析","type":0,"url":"http://pandown.pro/app/ysmjx.php?url=","ext":{"flag":["rx","ltnb","renrenmi","rongxing","bilibili","哔哩哔哩","哔哩","youku","优酷","qiyi","爱奇艺","奇艺","qq","腾讯","mgtv","芒果","sohu","搜狐","letv","乐视","xigua","CL4K","西瓜"]}},
-{"name":"时光解析","type":0,"url":"https://v.shigys.com/addons/dp/player/index.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}}
+{"name":"时光解析","type":0,"url":"https://v.shigys.com/addons/dp/player/index.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
+{"name":"全部","type":1,"url":"http://api.ckflv.cn/?url="},
+{"name": "来","type": 1,"url": "https://json.xn--9kq078cdn3a.cc/api/?key=e7096101128070c1ce09bbf3887e5279&url=","header": {"User-Agent": "Mozilla/5.0"}},
+{"name":"自","type":1,"url":"http://http://pandown.pro/app/kxjx.php?url=","header":{"User-Agent":"okhttp/4.1.0"}},
+{"name":"💋So丶","type":0,"url":"https://tljiaqing.nde.tw/m3u8/?url="},
+{"name":"大家","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
+{"name":"随便","type":0,"url":"https://rx.bt5v.com/json/jsonindex.php/?url="},
+{"name":"弄","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","header":{"User-Agent":"okhttp/4.1.0"}},
+{"name":"不要","type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url="},
+{"name":"客气","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=","header":{"User-Agent":"Dart/2.14 (dart:io)"}},
+{"name":"坏了","type":1,"url":"https://www.1920lgzy.top/json.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"我再","type":1,"url":"https://hc.izny.cn/json.php?url="},
+{"name":"去找","type":1,"url":"https://rx.bt5v.com/json/jsonindex.php/?url="},
+{"name":"来","type":1,"url":"https://www.nxflv.com/?url=","header":{"User-Agent":"Mozilla/5.0"}}
 ],
 "flags":["youku","qq","iqiyi","qiyi", "letv","sohu","tudou","pptv","mgtv","wasu","renrenmi","duoduozy","bilibili"],
 "ijk":[
