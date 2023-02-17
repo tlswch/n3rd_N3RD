@@ -1,6 +1,6 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0217.jar;md5;04F5B280A61857BB0FEE36E65E87806F",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0217.jar;md5;03B0839DE7217D9CB1DC1D8F1CFC93C4",
 
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0215.jar;md5;88E02A37223EE3AF3F9327DBEAA3175A",
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0214.jar;md5;3D1249E6B8C44391D0E2E93D13E189D3",
@@ -77,8 +77,7 @@
 //{"key":"Tutu_spider","name":"🗺Lem专属 图图影视(备用二)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788/"},
 {"key":"csp_YQK","name":"📺Lem专属 一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 {"key":"csp_YQK_TS","name":"📺Lem专属 一起看TV(备用)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8e3aefcba838d8dc5102ac786719d837"},
-{"key":"csp_Yanet","name":"🦆Lem专属 鸭奈飞(SP)","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
-//{"key":"csp_Yanet_TS","name":"🦆Lem专属 鸭奈飞(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349"},
+{"key":"csp_BookYs","name":"📖Lem专属 BookYs(SP)","type":3,"api":"csp_BookYs","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_BuLei","name":"👨Lem专属 布蕾蓝光(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bulei.cc"},
 {"key":"csp_Xinsj","name":"🗻Lem专属 新视觉影院(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
 {"key":"csp_Yht","name":"🍀Lem专属 野荷塘(SP)","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
@@ -178,6 +177,8 @@
 //{"key":"csp_nbys","name":"🏝Lem专属 泥巴(需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 //{"key":"csp_bdys","name": "📣Lem专属 哔嘀(磁力测试)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XP/Bdys.json"},
 //{"key":"csp_SP2345","name":"🥦Lem专属 2345(SP)","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Yanet","name":"🦆Lem专属 鸭奈飞(SP)","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
+//{"key":"csp_Yanet_TS","name":"🦆Lem专属 鸭奈飞(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349"},
 
 
 //搜索
@@ -185,11 +186,11 @@
 {"key":"YiSo","name":"😺Lem专属 易搜(搜索)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.xn--sss604efuw.ml/token"},
 {"key":"UpYun","name":"😺Lem专属 云搜(搜索)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.xn--sss604efuw.ml/token"},
 {"key":"push_agent","name":"😺Lem专属 推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.xn--sss604efuw.ml/token"},
-{"key":"UPanSo","name":"😺Lem专属 优盘搜(选原画)","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"43c2326baa784ad99b4c59265f714227"},
-{"key":"AliPanSou","name":"🐱Lem专属 盘搜(选原画)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"43c2326baa784ad99b4c59265f714227"},
-{"key":"FindZY","name":"😺Lem专属 找资源(备用)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"43c2326baa784ad99b4c59265f714227"},
-{"key":"Yisou","name":"😺Lem专属 易搜(备用)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"43c2326baa784ad99b4c59265f714227"},
-{"key":"csp_Gitcafe","name":"📜Lem专属 小纸条(备用)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"43c2326baa784ad99b4c59265f714227"},
+{"key":"UPanSo","name":"😺Lem专属 优盘搜(选原画)","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"AliPanSou","name":"🐱Lem专属 盘搜(选原画)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"FindZY","name":"😺Lem专属 找资源(备用)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"Yisou","name":"😺Lem专属 易搜(备用)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"csp_Gitcafe","name":"📜Lem专属 小纸条(备用)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
 
 //{"key":"Upyunso","name":"😺Lem专属 云搜(搜索)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
 //{"key":"Upso","name":"😺Lem专属 云搜2(搜索)","type":3,"api":"csp_Upso","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"},
