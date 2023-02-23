@@ -407,6 +407,13 @@
 
 {"key":"drjs_我的哔哩","name":"👺Lem专属 我的哔哩(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/我的哔哩.js"},
 {"key":"drjs_AList","name":"👺Lem专属 AList(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/alist.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/li.json"},
+{"key":"drjs_酷6网","name":"👺Lem专属 酷6网(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/酷6网.js"},
+{"key":"drjs_网易公版影像","name":"👺Lem专属 网易公版影像(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/网易公版影像.js"},
+{"key":"drjs_A8音乐","name":"👺Lem专属 A8音乐(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/A8音乐.js"},
+{"key":"drjs_91free","name":"👺Lem专属 91free(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/91free.js"},
+{"key":"drjs_曲奇动漫","name":"👺Lem专属 曲奇动漫(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/曲奇动漫.js"},
+{"key":"drjs_去看吧","name":"👺Lem专属 去看吧(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/去看吧.js"},
+{"key":"drjs_六度TV","name":"👺Lem专属 六度TV(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/六度TV.js"},
 {"key":"drjs_粤爱看","name":"👺Lem专属 粤爱看(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/粤爱看.js"},
 {"key":"drjs_萌番","name":"👺Lem专属 萌番(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/萌番.js"},
 {"key":"drjs_NT动漫","name":"👺Lem专属 NT动漫(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/NT动漫.js"},
