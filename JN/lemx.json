@@ -5,8 +5,11 @@
     {"group": "redirect","channels": [{"name":"redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL24zcmQvTjNSRC9yYXcvYnJhbmNoL21hc3Rlci9KTi9saXZlLnR4dA=="]}]}
     ],
     "sites": [
+        {"key":"T4db_豆瓣搜索","name":"📡雷蒙影视XYQ专线 豆瓣搜索","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"drjs_豆瓣js","name":"📡雷蒙影视XYQ专线 豆瓣推荐","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/drpy.js"},
+        
         {"key":"csp_LocalFile","name":"💑Lem专属 本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
-        {"key":"csp_Alist","name":"💑Lem专属 Alist(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"./Alist.json"},
+        {"key":"csp_Alist","name":"💑Lem专属 Alist","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"./Alist.json"},
         {"key":"Gitcafe","name":"💑Lem专属 小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./alitoken.txt"},
         {"key":"csp_Zhaozy","name":"💑Lem专属 找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
         {"key":"csp_AliPS","name":"💑Lem专属 喵狸盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
