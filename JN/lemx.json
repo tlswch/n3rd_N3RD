@@ -1,8 +1,8 @@
 {
     "wallpaper":"https://agit.ai/n3rd/N3RD/raw/branch/master/W/crimetv.png",
-    "spider": "./custom_spider.jar",
+    "spider": "https://agit.ai/n3rd/N3RD/raw/branch/master/J/xyq0302.jar;md5;899D8CE213A531A07363DAD1593CD2D3",
     "lives":[
-    {"group": "redirect","channels": [{"name": "💑Lem专属 redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL24zcmQvTjNSRC9yYXcvYnJhbmNoL21hc3Rlci9KTi9saXZlLnR4dA=="]}]}
+    {"group": "redirect","channels": [{"name":"redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL24zcmQvTjNSRC9yYXcvYnJhbmNoL21hc3Rlci9KTi9saXZlLnR4dA=="]}]}
     ],
     "sites": [
         {"key":"csp_LocalFile","name":"💑Lem专属 本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
@@ -91,17 +91,17 @@
         {"key": "csp_XYQHiker_l0l影院","name":"💑Lem专属 l0l影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/l0l影院.json"},
         {"key": "csp_XYQHiker_F7好看剧","name":"💑Lem专属 F7好看剧(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/F7好看剧.json"},
         {"key": "csp_XYQHiker_FreeOK","name":"💑Lem专属 FreeOK(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/FreeOK.json"},
-        
         {"key": "csp_XYQHiker_无插件直播","name": "💑Lem专属 无插件直播(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XYQHiker/无插件直播.json"},
-        {"key": "csp_XYQBiu_88看球","name":"💑Lem专属 88看球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQBiu/88看球.json"},
         {"key": "csp_XYQHiker_l0l直播","name":"💑Lem专属 l0l直播(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/l0l直播.json"},
         {"key": "csp_XYQHiker_虎牙直播","name": "💑Lem专属 虎牙直播(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./XYQHiker/虎牙直播.json"},
+        
         {"key": "csp_drjs_虎牙直播","name":"💑Lem专属 虎牙直播(JS)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js?inline=false","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/虎牙直播.js?inline=false","searchable": 0,"quickSearch": 0,"filterable": 0},
+
+        {"key": "csp_XYQBiu_88看球","name":"💑Lem专属 88看球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQBiu/88看球.json"},
         {"key": "csp_XYQBiu_网易CC直播","name": "💑Lem专属 网易CC直播(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XYQBiu/网易CC直播.json"},
         {"key": "csp_XYQBiu_310直播","name": "💑Lem专属 310直播(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XYQBiu/310直播.json"},
         {"key": "csp_XYQBiu_抓饭直播","name": "💑Lem专属 抓饭直播(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XYQBiu/抓饭直播.json"},
         {"key": "csp_XYQBiu_斗鱼直播","name": "💑Lem专属 斗鱼直播(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./XYQBiu/斗鱼直播.json"},
-        
         {"key": "csp_XYQBiu_好恐怖","name":"💑Lem专属 好恐怖磁力(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/好恐怖磁力.json"},
         {"key": "csp_XYQBiu_影视工场","name":"💑Lem专属 影视工场(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/影视工场.json"},
         {"key": "csp_XYQBiu_完美看看","name":"💑Lem专属 完美看看(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/完美看看.json"},
