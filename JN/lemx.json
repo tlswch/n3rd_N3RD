@@ -176,83 +176,83 @@
         "rule":["playwm/?video_id="]
         }
     ],
-    "ijk": [
+"ijk": [
         {
             "group": "硬解码",
             "options": [
                 {
                     "category": 4,
-                    "name": "💑Lem专属 opensles",
+                    "name": "opensles",
                     "value": "0"
                 },
                 {
                     "category": 4,
-                    "name": "💑Lem专属 overlay-format",
+                    "name": "overlay-format",
                     "value": "842225234"
                 },
                 {
                     "category": 4,
-                    "name": "💑Lem专属 framedrop",
+                    "name": "framedrop",
                     "value": "1"
                 },
                 {
                     "category": 4,
-                    "name": "💑Lem专属 soundtouch",
+                    "name": "soundtouch",
                     "value": "1"
                 },
                 {
                     "category": 4,
-                    "name": "💑Lem专属 start-on-prepared",
+                    "name": "start-on-prepared",
                     "value": "1"
                 },
                 {
                     "category": 1,
-                    "name": "💑Lem专属 http-detect-range-support",
+                    "name": "http-detect-range-support",
                     "value": "0"
                 },
                 {
                     "category": 1,
-                    "name": "💑Lem专属 fflags",
+                    "name": "fflags",
                     "value": "fastseek"
                 },
                 {
                     "category": 2,
-                    "name": "💑Lem专属 skip_loop_filter",
+                    "name": "skip_loop_filter",
                     "value": "48"
                 },
                 {
                     "category": 4,
-                    "name": "💑Lem专属 reconnect",
+                    "name": "reconnect",
                     "value": "1"
                 },
                 {
                     "category": 4,
-                    "name": "💑Lem专属 enable-accurate-seek",
+                    "name": "enable-accurate-seek",
                     "value": "0"
                 },
                 {
                     "category": 4,
-                    "name": "💑Lem专属 mediacodec",
+                    "name": "mediacodec",
                     "value": "1"
                 },
                 {
                     "category": 4,
-                    "name": "💑Lem专属 mediacodec-auto-rotate",
+                    "name": "mediacodec-auto-rotate",
                     "value": "1"
                 },
                 {
                     "category": 4,
-                    "name": "💑Lem专属 mediacodec-handle-resolution-change",
+                    "name": "mediacodec-handle-resolution-change",
                     "value": "1"
                 },
                 {
                     "category": 4,
-                    "name": "💑Lem专属 mediacodec-hevc",
+                    "name": "mediacodec-hevc",
                     "value": "1"
                 },
                 {
                     "category": 1,
-                    "name": "💑Lem专属 dns_cache_timeout",
+                    "name": "dns_cache_timeout",
                     "value": "600000000"
                 }
             ]
@@ -262,77 +262,77 @@
             "options": [
                 {
                     "category": 4,
-                    "name": "💑Lem专属 opensles",
+                    "name": "opensles",
                     "value": "0"
                 },
                 {
                     "category": 4,
-                    "name": "💑Lem专属 overlay-format",
+                    "name": "overlay-format",
                     "value": "842225234"
                 },
                 {
                     "category": 4,
-                    "name": "💑Lem专属 framedrop",
+                    "name": "framedrop",
                     "value": "1"
                 },
                 {
                     "category": 4,
-                    "name": "💑Lem专属 soundtouch",
+                    "name": "soundtouch",
                     "value": "1"
                 },
                 {
                     "category": 4,
-                    "name": "💑Lem专属 start-on-prepared",
+                    "name": "start-on-prepared",
                     "value": "1"
                 },
                 {
                     "category": 1,
-                    "name": "💑Lem专属 http-detect-range-support",
+                    "name": "http-detect-range-support",
                     "value": "0"
                 },
                 {
                     "category": 1,
-                    "name": "💑Lem专属 fflags",
+                    "name": "fflags",
                     "value": "fastseek"
                 },
                 {
                     "category": 2,
-                    "name": "💑Lem专属 skip_loop_filter",
+                    "name": "skip_loop_filter",
                     "value": "48"
                 },
                 {
                     "category": 4,
-                    "name": "💑Lem专属 reconnect",
+                    "name": "reconnect",
                     "value": "1"
                 },
                 {
                     "category": 4,
-                    "name": "💑Lem专属 enable-accurate-seek",
+                    "name": "enable-accurate-seek",
                     "value": "0"
                 },
                 {
                     "category": 4,
-                    "name": "💑Lem专属 mediacodec",
+                    "name": "mediacodec",
                     "value": "0"
                 },
                 {
                     "category": 4,
-                    "name": "💑Lem专属 mediacodec-auto-rotate",
+                    "name": "mediacodec-auto-rotate",
                     "value": "0"
                 },
                 {
                     "category": 4,
-                    "name": "💑Lem专属 mediacodec-handle-resolution-change",
+                    "name": "mediacodec-handle-resolution-change",
                     "value": "0"
                 },
                 {
                     "category": 4,
-                    "name": "💑Lem专属 mediacodec-hevc",
+                    "name": "mediacodec-hevc",
                     "value": "0"
                 },
                 {
                     "category": 1,
-                    "name": "💑Lem专属 dns_cache_timeout",
+                    "name": "dns_cache_timeout",
                     "value": "600000000"
                 }
             ]
